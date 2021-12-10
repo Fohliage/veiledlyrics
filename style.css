@@ -48,7 +48,7 @@ a.active,a:hover{
   text-transform: uppercase;
 }
 #check{
-  display: none;
+  display: mobile;
 }
 label #btn,label #cancel{
   position: absolute;
@@ -69,15 +69,15 @@ label #cancel{
   opacity: 0;
   visibility: hidden;
 }
-#check:checked ~ .sidebar{
+:checked ~ .sidebar{
   left: 0;
 }
-#check:checked ~ label #btn{
+:checked ~ label #btn{
   margin-left: 245px;
   opacity: 0;
   visibility: hidden;
 }
-#check:checked ~ label #cancel{
+:checked ~ label #cancel{
   margin-left: 245px;
   opacity: 1;
   visibility: visible;
