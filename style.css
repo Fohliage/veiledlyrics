@@ -73,5 +73,7 @@ body {
 
 .pubs {
   display: grid;
-  grid-template-columns: auto;
+  grid-template-columns: repeat (auto-fill, minmax(100px,1fr)) ;
+  grid-template-rows: auto;
+  grid-gap: 20px;
 }
