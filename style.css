@@ -30,13 +30,11 @@ h1 {
 font-family: avantgarde;
   font-style: italic;
   font-size: 66px;
-  position: relative;
-  left: 66px;
-  top: 13px;
+text-align: center;
   color: #450000;
 }
  p  {
 font-size: 33px;
 font-style: italic;
-position: center;
+position: relative;
  }
