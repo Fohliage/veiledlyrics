@@ -11,8 +11,7 @@ background-color: #d3d3d3
 
 }
 
-ul {
-  list-style-type: none;
+li {
   display: inline;
   float: right;
   margin: 10px;
@@ -22,11 +21,6 @@ ul {
 
 }
 
-ul li  {
-
-color: white
-
-}
 
 h1  {
 
