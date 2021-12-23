@@ -21,7 +21,8 @@ li {
 
 h1 {
 
-  margin-left: 50px;
+  padding-left: 50px;
   font-style: italic;
   font-size: 77px;
+  position: relative;
 }
