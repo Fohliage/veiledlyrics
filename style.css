@@ -25,4 +25,9 @@ position: relative;
 
 
 }
-p 
+p {
+
+position: relative;
+color: red;
+font-size: 17px;
+}
