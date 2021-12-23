@@ -1,7 +1,11 @@
-head  {
-
-
-
+header {
+    width: 100%;
+    height: 46px;
+    -webkit-transform: translateZ(0);
+    -webkit-font-smoothing: subpixel-antialiased;
+    background: #fff;
+    background: var(--background-surface-color);
+    transition: height .2s ease-in-out;
 }
 
 body  {
