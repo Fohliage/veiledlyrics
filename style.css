@@ -1,4 +1,4 @@
-nav {
+body {
   display: block;
   position: relative;
     font-size: 17px;
@@ -14,3 +14,15 @@ nav {
 
 
 }
+
+h1 {
+
+font-size: 33px
+background-color: #d3d3d3;
+color: cyan;
+position: relative;
+
+
+
+}
+p 
