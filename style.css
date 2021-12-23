@@ -9,11 +9,9 @@ body  {
 
 background-color: #d3d3d3
 
+}
 
-
-ul  {
-
-  list-style-type: none;
+ul {
   display: inline;
   float: right;
   margin: 10px;
@@ -23,7 +21,7 @@ ul  {
 
 }
 
- ul li  {
+ul li  {
 
 color: white
 
