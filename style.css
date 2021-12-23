@@ -5,26 +5,14 @@ header  {
 
 }
 
-title  {
-
-font-size: 77px;
-font-family: avantgarde;
-color: #ff1e56;
-
-}
-
-
 body  {
 
 background-color: #d3d3d3
 
 
 
-}
+ul  {
 
-
-
-ul {
   list-style-type: none;
   display: inline;
   float: right;
@@ -34,21 +22,27 @@ ul {
   font-size: 19px;
 
 }
+
  ul li  {
 
 color: white
 
 }
 
-h1 {
+h1  {
+
 font-family: avantgarde;
   font-style: italic;
   font-size: 66px;
 text-align: center;
   color: #450000;
+
 }
+
  p  {
+
 font-size: 33px;
 font-style: italic;
 position: relative;
- }
+
+}
