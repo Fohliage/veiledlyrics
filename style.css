@@ -1,3 +1,10 @@
+
+body  {
+
+background-color: #d3d3d3
+
+}
+
 .header {
 position: fixed;
 width: auto;
@@ -6,13 +13,6 @@ background: #hsla(360, 100%, 100%, 0.5);
 
 
 }
-
-body  {
-
-background-color: #d3d3d3
-
-}
-
 .navigation ul {
   display: inline;
   float: right;
@@ -30,17 +30,12 @@ list-style-type: none;
 
 h1  {
 
-  font-style: italic;
-  font-size: 66px;
-text-align: center;
-  color: #450000;
+
 
 }
 
  p  {
 
-font-size: 33px;
-font-style: italic;
-text-align: center;
+
 
 }
