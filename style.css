@@ -29,6 +29,11 @@ background-color: #800020;
 }
 h1  {
 
+
+
+}
+p  {
+
 color: #ffc;
 background-color: #900;
 font-size: 2em;
@@ -38,11 +43,5 @@ padding: 3px;
 font-style: italic;
 text-align: center;
 letter-spacing: 0.7em;
-
-}
-
-p  {
-
-line-height: 22px;
 
 }
