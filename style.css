@@ -1,4 +1,9 @@
 header {
+position: fixed;
+width: auto;
+padding-top: 20px;
+background: #hsla(360, 100%, 100%, 0.5);
+
 
 }
 
