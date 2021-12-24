@@ -7,26 +7,19 @@ background-color: #d3d3d3
 
 
 ul {
+  display: block;
+  width: 100%;
 list-style-type: none;
-margin: 0;
-padding: 0;
 background-color: #800000;
 }
 
 li  {
 float: right;
+margin: 17px;
+padding: 11px;
 
 }
-li a {
-color: white;
-text-align: center;
-padding: 13px;
 
-}
-li a:hover {
-background-color: #800020;
-
-}
 h1  {
 
 
