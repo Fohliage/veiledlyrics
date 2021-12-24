@@ -20,10 +20,9 @@ float: right;
 
 }
 li a {
-display: block;
 color: white;
 text-align: center;
-padding: 13px 17px;
+padding: 13px;
 
 
 }
@@ -34,12 +33,21 @@ background-color: #800020;
 }
 h1  {
 
+color: #ffc;
+background-color: #900;
+font-size: 2em;
+margin: 0;
+margin-bottom: 6px;
+padding: 3px;
+font-style: italic;
+text-align: center;
+letter-spacing: 0.7em;
 
 
 }
 
 p  {
 
-
+line-height: 22px;
 
 }
