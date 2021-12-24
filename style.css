@@ -5,7 +5,7 @@ background-color: #d3d3d3
 
 }
 
-.header {
+.topnav-head {
 position: fixed;
 width: auto;
 padding-top: 20px;
@@ -13,18 +13,13 @@ background: #hsla(360, 100%, 100%, 0.5);
 
 
 }
-.navigation ul {
-  display: inline;
-  float: right;
-  margin: 10px;
-  padding: 10px;
-  color: white;
-  font-size: 19px;
+ ul {
+
 
 }
 
 li  {
-list-style-type: none;
+
 
 }
 
