@@ -8,7 +8,7 @@ background-color: #d3d3d3
 
 ul {
   display: block;
-  width: 100%;
+  width: auto;
 list-style-type: none;
 background-color: #800000;
 }
