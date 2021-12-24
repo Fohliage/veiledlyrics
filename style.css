@@ -13,23 +13,37 @@ background: #hsla(360, 100%, 100%, 0.5);
 
 
 }
- ul {
-
-
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+background-color: #800000;
 }
 
 li  {
+float: right;
+
+}
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 13px 17px;
 
 
 }
+li a:hover {
+background-color: #800020;
 
+
+}
 h1  {
 
 
 
 }
 
- p  {
+p  {
 
 
 
