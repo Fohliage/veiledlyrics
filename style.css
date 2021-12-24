@@ -13,7 +13,7 @@ background-color: #d3d3d3
 
 }
 
-.navigation ul li {
+.navigation ul {
   display: inline;
   float: right;
   margin: 10px;
