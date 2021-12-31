@@ -7,10 +7,12 @@ background-color: #d3d3d3
 
 
 ul {
+  list-style-type: none;
   display: block;
+  background-color: #800000;
   width: auto;
-list-style-type: none;
-background-color: #800000;
+
+
 }
 
 li  {
@@ -21,6 +23,7 @@ padding: 11px;
 }
 
 h1  {
+text-align: center;
 
 
 
@@ -31,7 +34,6 @@ color: #ffc;
 background-color: #900;
 font-size: 2em;
 margin: 0;
-margin-bottom: 6px;
 padding: 3px;
 font-style: italic;
 text-align: center;
